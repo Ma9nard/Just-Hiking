@@ -1,0 +1,58 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    font-family: 'Rubik', sans-serif;
+    background-color: rgb(49, 49, 49);
+}
+a{
+    text-decoration: none;
+}
+ul {
+    text-decoration: none;
+}
+ol {
+    text-decoration: none;
+    list-style-type: none;
+}
+li {
+    color: white;
+}
+.logo {
+    margin-left: 30px;
+    margin-top: 20px;
+    box-sizing: border-box;
+}
+.logo1 {
+    box-sizing: border-box;
+    width: 15vw;
+    height: 6vh;
+}
+.left-box {
+    margin-left: 30px;
+    margin-top: 10px;
+    background-color: rgb(77, 77, 77);
+    border-radius: 2%;
+    width: 30vh;
+    height: 80vh;
+}
+.left-b {
+    padding: 1vh;
+}
+.menu {
+    margin-left: 1vw;
+    margin-top: 2vh;
+}
+.pr {
+    margin-right: 6px;
+}
+.new {
+    margin-right: 6px;
+}
+.mes {
+    margin-right: 6px;
+}
+.ph {
+    margin-right: 6px;
+}
