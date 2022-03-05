@@ -38,3 +38,8 @@ input {
     font-size: 0.75em;
     text-align: center;
 }
+button {
+    position: relative; 
+    left: 5vw;
+    text-align: center;
+}
