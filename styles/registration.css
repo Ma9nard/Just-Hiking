@@ -27,5 +27,10 @@ input {
     border-style: solid;
     border-color: rgba(77,77,77);
     position: relative;
-    left: 3vw;
+    left: 5vw;
+    border-radius: 5px;
+}
+.forgotpassword {
+    font-size: 0.5em;
+    padding-left: 5vw;
 }
